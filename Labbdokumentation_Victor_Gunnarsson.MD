@@ -1,4 +1,4 @@
-w# Labbmiljö, CLI, Git & AI
+# Labbmiljö, CLI, Git & AI
 ## Victor Gunnarsson - ISCX26
 ### Introduktion
 
