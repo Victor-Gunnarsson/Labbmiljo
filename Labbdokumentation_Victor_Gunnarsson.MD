@@ -1,4 +1,4 @@
-# Labbmiljö, CLI, Git & AI
+w# Labbmiljö, CLI, Git & AI
 ## Victor Gunnarsson - ISCX26
 ### Introduktion
 
@@ -19,7 +19,7 @@ git push -u origin main
 
 ## Del 2: Virtuell Labbmiljö & Nätverk
 
-Maskinerna består av en Ubuntu Server och en klient som kör Windows 11. Båda virtualiserade i Virtualbox med nätverkskorten satta till Internal Network och statiska IP adresser så att de kan kommunicera med varandra.
+Maskinerna består av en Ubuntu Server och en klient som kör Windows 11. Båda är virtualiserade i Virtualbox med nätverkskorten satta till Internal Network och statiska IP adresser så att de kan kommunicera med varandra.
 
 Tabellöversikt för de två maskinerna med hostname, OS, IP- och subnätadress samt Interface-information:
 
@@ -145,8 +145,8 @@ Skärmdumpar med information om nätverkskorten med IP, MAC och subnätmask:
 
 3. Svaret jag fick hade bra struktur och var vädligt informativt. Det fanns ingen hallucination då all information stämde. För att bekräfta jämförde jag AI-svaret med tidigare föreläsningsmaterial samt att kolla man-pages för de olika kommandon.
 
-    Att lägga till "Ge en enkel steg-för-steg förklaring" gör att AI:n lägger upp det lite mer stukturerat och att den förklarar mer för varje steg vad de olika kommandon gör än att bara ställa frågan i sig, det kan då bli lite för mycket information samtidigt med en dålig utveckling där information kan blandas ihop.
+    Att lägga till "Ge en enkel steg-för-steg förklaring" gör att AI:n lägger upp det lite mer stukturerat och att den förklarar mer för varje steg vad de olika kommandon gör än att bara ställa frågan i sig, det kan då bli lite för mycket information samtidigt med en dålig utveckling där information kan blandas ihop och man inte förstår logiken bakom.
 
-    Svaret har även bra format då den tydligt visar vilka kommandon som är kod. Varje steg och kommando har bra förklaring vad som gör vad.
+    Svaret har även bra format då den tydligt visar vilka kommandon som är kod. Varje steg och kommando har en bra förklaring vad som gör vad.
 
     Jag tror att just AI kan vara extremt hjälpsamt när man ska fråga om just kommandon för Linux samt Powershell, istället för att Googla där svaren kan vara väldigt vaga eller för avancerade kan AI ge ett bra, utförligt samt välpresenterat svar som man kan enkelt följa med.
